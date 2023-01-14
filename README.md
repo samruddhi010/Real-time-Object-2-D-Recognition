@@ -25,4 +25,3 @@ make
 6.Instructions for running executables.
   uncomment the grassfire transform and connectedcomponentlabel to run these two functions.
 
-6. I am using 4 time traveldays for this project.
