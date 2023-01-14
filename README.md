@@ -1,4 +1,6 @@
- Project 3: Real-time Object 2-D Recognition :This project was an introduction to object detection through a series of computer vision techniques learned in the Class. These techniques included thresholding, morphological operations, connected component labeling, feature extraction, euclidean distance, KNN.
+ # Project 3: Real-time Object 2-D Recognition :
+ 
+ This project was an introduction to object detection through a series of computer vision techniques learned in the Class. These techniques included thresholding, morphological operations, connected component labeling, feature extraction, euclidean distance, KNN.
 
  
 1.Links/URLs to video created.
